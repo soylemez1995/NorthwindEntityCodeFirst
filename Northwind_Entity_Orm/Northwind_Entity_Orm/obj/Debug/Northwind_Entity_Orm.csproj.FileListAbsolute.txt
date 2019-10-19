@@ -1,0 +1,13 @@
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\Northwind_Entity_Orm.exe.config
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\Northwind_Entity_Orm.exe
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\Northwind_Entity_Orm.pdb
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\EntityFramework.dll
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\EntityFramework.xml
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.csprojAssemblyReference.cache
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.Properties.Resources.resources
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.csproj.CopyComplete
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.exe
+C:\Users\mehme\source\repos\Northwind_Entity_Orm\Northwind_Entity_Orm\obj\Debug\Northwind_Entity_Orm.pdb
